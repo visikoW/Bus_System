@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main (){
-    char nome[100];
+    char nome[256];
 
     printf("\n********************************\n");
     printf("Seja muito bem-vindo ao sistema de Ônibus de Serra Talhada!");
